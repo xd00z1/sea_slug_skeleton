@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 ###############################
 # TODO: Set a variable called stv to 4, this will define 
 #        the weight of the connection from input to output
-stv = 4
+# stv = 
 
 # TODO: set up an input pulse called pls
 # pls = 
